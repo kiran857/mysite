@@ -1,0 +1,53 @@
+body{
+    background-color: lightblue;
+    text-align: center;
+    margin: 0;
+    
+}
+.topcloud{
+    position: absolute;
+    right: 300px;
+    top:20px;
+} 
+.bottomcloud{
+    position: absolute;
+    left: 300px;
+    top:200px;
+}
+h1{
+    font-family: 'Brush Script MT';
+}
+.middleContainer{
+    position: relative;
+    top:100px;
+}
+.mountaineImg{
+    position: relative;
+    top: 100px;
+}
+.profileImage{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.profileImage{
+    position: relative;
+    top:100px;
+    right:20px;
+}
+.profileDetails{
+    position: relative;
+    top:100px;
+    
+}
+.skills h1{
+    position: relative;
+    top:100px;
+    border-top: gray solid 2px;
+}
+.flex-container{
+    flex-direction: row;
+    display: inline-block;
+    margin:100px;
+   
+}
